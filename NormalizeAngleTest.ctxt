@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=NormalizeAngleTest
+comment1.params=
+comment1.target=void\ setUp()
+comment2.params=
+comment2.target=void\ normalizeValueUsingModuloTest()
+comment3.params=
+comment3.target=void\ normalizeValueUsingFloorModTest()
+numComments=4

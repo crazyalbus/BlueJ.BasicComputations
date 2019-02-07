@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Factorial
+comment1.params=value
+comment1.target=java.math.BigInteger\ factorialOf(java.lang.Integer)
+numComments=2
